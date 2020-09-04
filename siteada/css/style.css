@@ -69,8 +69,10 @@ h2{
  .principal{
    height:40px;
    background-color:#ff6cb5;
-   max-width:60%; 
+   width:60%; 
    margin:0 auto;
+   position: relative;
+   height: auto;
  }
 
  .principal a{
