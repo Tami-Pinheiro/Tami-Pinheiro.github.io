@@ -93,9 +93,12 @@ div{
 
  .principal{
    height:40px;
-   background-color:#038a7c;
-   max-width:90%; 
-   margin:auto;
+   background-color: #038a7c;
+   max-width:50%; 
+   margin: 0 auto;
+   position: relative;
+   height: auto;
+   width: 60%;
  }
 
  .principal a{
