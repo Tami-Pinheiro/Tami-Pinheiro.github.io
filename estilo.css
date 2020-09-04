@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+body {
+	background-image: url("img/fundo.jpeg");
+	font-family:Comic Sans MS, cursive, sans-serif;
+	text-align: center;
+	background-size:100%;
+	color:#d46128;
+	font-size: 30px;
+
+}
+
+figure.gato-direita{
+	width:60%;
+	height:60%;
+	margin: 0px, 20px, 0px, 40px; 
+}
+
+img{
+	margin: 0 auto;
+	padding-right:3px;
+	padding-left:40%;
+}
+
+.principal a{
+	color:black; 
+	text-decoration:oblique;
+	font-weight:italic;
+	color:#2b2522;
+}
+
+.principal li{
+   display:inline-block;
+   line-height:2;
+   margin:0 30px;
+ }
